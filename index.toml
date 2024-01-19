@@ -1,0 +1,111 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/.index/applied-energistics-2.pw.toml"
+hash = "69ad011f328f596cddcd2ebd48d72bc0f18273136549597db57d80d464f7fc30"
+metafile = true
+
+[[files]]
+file = "mods/.index/astral-sorcery.pw.toml"
+hash = "fd2cd56b559be944b3fbb6d3561227b2cb8e84419619c5b68317d8b2d635a0bd"
+metafile = true
+
+[[files]]
+file = "mods/.index/baubles.pw.toml"
+hash = "c09b6515ed5ef9310c5aab610696f992adfb161ce4cc53851719d8727b6d18e1"
+metafile = true
+
+[[files]]
+file = "mods/.index/better-questing.pw.toml"
+hash = "748f274d293d05fd402492a74495df711d2cfe4f1778dbd99c2660df2591bca7"
+metafile = true
+
+[[files]]
+file = "mods/.index/botania.pw.toml"
+hash = "f56f21b629a675b1def10c185d93b563967fae9e35324a10fd870fc21a7f486e"
+metafile = true
+
+[[files]]
+file = "mods/.index/codechicken-lib-1-8.pw.toml"
+hash = "bae7bde411a4176d1caaee0adc769d7bd707964bf7b480eebd3282487c55cac0"
+metafile = true
+
+[[files]]
+file = "mods/.index/gregtech-ce-unofficial.pw.toml"
+hash = "e6ae8790fc7cb773e9d5692147c2044a9ef033fa4761c095b78d90a1e7f1e47f"
+metafile = true
+
+[[files]]
+file = "mods/.index/gregtech-food-option.pw.toml"
+hash = "116478a77decd85422924869c420421a6e2f950eefe8bfda82ce5c47599b3ea4"
+metafile = true
+
+[[files]]
+file = "mods/.index/had-enough-items.pw.toml"
+hash = "4774ad7f9fbc22f3206f62a7c6be39fb1a25f9d2ae152815d985efd2cdf54f53"
+metafile = true
+
+[[files]]
+file = "mods/.index/lolasm.pw.toml"
+hash = "c4df35e5bbec68dbefe2a13d61a055d6792ce0c7f496ae4175366c4ac1fc6e28"
+metafile = true
+
+[[files]]
+file = "mods/.index/mixin-booter.pw.toml"
+hash = "c512d81a264d0d7b9fd31a112da39927062cbb48cc17a73b7644633531ee153e"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
+metafile = true
+
+[[files]]
+file = "mods/astral-sorcery.pw.toml"
+hash = "82fbfe7ad86f3ef8a0085f86e1b23fb3ddd845fd55a2eb495a593306dd1a281f"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/better-questing.pw.toml"
+hash = "32f37f48a6070189be294c146cdd919c07d1b4f36124071a993958d210dd375a"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "96de7b241688c8771621d9ef3dcc4eb565389739196334bea745043375dbc03a"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
+file = "mods/gregtech-ce-unofficial.pw.toml"
+hash = "f4d812e160e3113ce10ef302183be07208c6146d330d52efa3a2516696b85082"
+metafile = true
+
+[[files]]
+file = "mods/gregtech-food-option.pw.toml"
+hash = "61951cbe97e30328cb922f97dc780b915e335fa011cd7d3c6c0d45aeef089c39"
+metafile = true
+
+[[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "46105378f0912c9698335465b9dec93863bc709a626055ef1281f0c2308b1f0c"
+metafile = true
+
+[[files]]
+file = "mods/lolasm.pw.toml"
+hash = "b9d0fa17a02f9eb096c35e62624bbc34221c205c57c0599845ccf0f8c2a044ab"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "8935ea958a5b1267afb2a20394fbe18d414b9d68cfd754dd614b2b39f7475de7"
+metafile = true

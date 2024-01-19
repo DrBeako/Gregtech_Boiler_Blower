@@ -1,0 +1,13 @@
+name = "Gregtech Boiler Blower"
+author = "Dr. Beako\u001b[D"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "594332c64d1765e8f4e8b37b6b290df8f271d95e9270e11e75d9739f0c9df726"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
