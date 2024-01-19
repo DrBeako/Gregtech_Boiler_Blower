@@ -1,0 +1,13 @@
+name = "Dynamic Trees - GregTech CEu (Rubber Tree)"
+filename = "GTCEDynTree-1.12.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecdf1607de8ee8c939915aaca587f246fe9a93ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3921519
+project-id = 615562

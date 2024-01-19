@@ -1,0 +1,13 @@
+name = "No Tree Punching"
+filename = "notreepunching-2.0.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e3d074bb19ba82ac9135c929841e7381d3af25c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2983385
+project-id = 289043

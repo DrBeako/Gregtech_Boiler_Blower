@@ -1,0 +1,13 @@
+name = "AlcatrazCore"
+filename = "alcatrazcore-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81f53ff51c5559ef93e599d489aa736d714b1ff9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2666560
+project-id = 304493
