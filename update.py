@@ -15,7 +15,7 @@ def main():
         exit(1)
     server = Popen(["packwiz", "serve"])
 
-    chdir(path.join("..", ".minecraft"))
+    chdir(path.join("..", "minecraft"))
     system("java -jar packwiz-installer-bootstrap.jar http://localhost:8080/pack.toml")
 
     server.kill()
