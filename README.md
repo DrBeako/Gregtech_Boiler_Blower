@@ -32,8 +32,7 @@ insert speech about the pack blablabla
 - Postlaunch:
 - `/bin/bash -c python3 "$INST_DIR/packwiz/generate.py"`
 
-- Launch the instance.
-- Profit!
+Launch the instance & get developing!
 
 ### Updating
 Re-launch the instance
