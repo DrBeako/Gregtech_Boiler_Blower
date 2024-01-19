@@ -35,7 +35,7 @@ insert speech about the pack blablabla
 Launch the instance & get developing!
 
 ### Updating
-Re-launch the instance
+- Re-launch the instance
 
 ### Pushing
 - Open your packwiz directory.
