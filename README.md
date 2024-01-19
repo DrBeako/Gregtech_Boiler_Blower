@@ -16,7 +16,7 @@ insert speech about the pack blablabla
 ### Installing
 - Create a bear-bone mc instance running 1.12.2 on the newest forge.
 - Clone https://github.com/DrBeako/Gregtech_Boiler_Blower/ to a directory called packwiz, it should be located in the same directory as your minecraft folder. Ex:
-![image](https://github.com/DrBeako/Gregtech_Boiler_Blower/assets/77862418/b846f4a4-2fac-4a5d-8496-020bac74e6b9)
+- ![image](https://github.com/DrBeako/Gregtech_Boiler_Blower/assets/77862418/b846f4a4-2fac-4a5d-8496-020bac74e6b9)
 - Download https://github.com/packwiz/packwiz-installer-bootstrap/releases and paste it into your minecraft folder.
 #### Windows
 - Set the pre-launch on your prism/multimc instance to: 
@@ -46,6 +46,6 @@ Re-launch the instance
 
 - In the packwiz folder, run the command `packwiz curseforge install (project slug)`
 - To find the project slug, first open up a curseforge mod's page, and look at the end of the website link, Ex:
-![image](https://github.com/DrBeako/Gregtech_Boiler_Blower/assets/77862418/fa80f288-7f58-42bb-a418-6b3c0e90a73b)
+- ![image](https://github.com/DrBeako/Gregtech_Boiler_Blower/assets/77862418/fa80f288-7f58-42bb-a418-6b3c0e90a73b)
 
 
