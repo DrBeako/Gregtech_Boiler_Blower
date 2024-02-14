@@ -1,0 +1,13 @@
+name = "Fancier Block Particles"
+filename = "Fancier-Block-Particles-0.8-Dev-16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b663e0d8df960f4fa452ca3e92875cf91d70412d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4673177
+project-id = 666575

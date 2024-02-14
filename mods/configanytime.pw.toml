@@ -1,13 +1,13 @@
 name = "ConfigAnytime"
-filename = "!configanytime-1.0.jar"
+filename = "!configanytime-2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f89e3ec33a0778a6df8d87864ecf4626bb0b4773"
+hash = "519f1e28b4a67a49ce2c76f66bdd846ca98dc1c9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4576653
+file-id = 5069845
 project-id = 870276

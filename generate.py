@@ -15,7 +15,7 @@ DIRECTORIES = [
     "defaultconfigs",
     "fancymenu_assets",
     "fancymenu_setups",
-    "kubejs",
+    "groovy",
     "patchouli_books",
     "multiblocked",
     "worldshape",
