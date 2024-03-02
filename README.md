@@ -14,12 +14,13 @@ insert speech about the pack blablabla
 - Java8 specifically (https://adoptium.net/temurin/releases/?version=8)
 
 ### Installing
-- Create a bear-bone mc instance running 1.12.2 on the newest forge.
+- Create a bare-bone mc instance running 1.12.2 on the newest forge.
 - Clone https://github.com/DrBeako/Gregtech_Boiler_Blower/ to a directory called packwiz, it should be located in the same directory as your minecraft folder. Ex:
 
 ![image](https://github.com/DrBeako/Gregtech_Boiler_Blower/assets/77862418/b846f4a4-2fac-4a5d-8496-020bac74e6b9)
 
 - Download https://github.com/packwiz/packwiz-installer-bootstrap/releases and paste it into your minecraft folder.
+- You could also do this with GitHub Desktop if you know how to do it.
 #### Windows
 - Set the pre-launch on your prism/multimc instance to: 
 - `cmd /c python3 "$INST_DIR/packwiz/update.py"`
