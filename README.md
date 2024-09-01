@@ -1,6 +1,6 @@
 # Gregtech: Boiler Blower
-insert logo
-insert speech about the pack blablabla
+Credits:
+Lrdmtns: Lead Dev and Creator
 
 # Development
 
